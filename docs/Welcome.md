@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: "Bienvenue chez Rootosaurus"
 permalink: /
 ---
 
-# Bienvenue chez Rootosaurus !
+# Bienvenue chez Rootosaurus 🦖 !
 
 Plongez dans l'univers où la technologie rencontre la pop culture ! Chez Rootosaurus, nous ne faisons pas que réparer des ordinateurs, nous les transformons en véritables machines de guerre contre les bugs et les pannes.
 
