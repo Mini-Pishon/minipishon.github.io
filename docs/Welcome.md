@@ -6,11 +6,7 @@ permalink: /
 
 # Bienvenue chez Rootosaurus 🦖 !
 
-Plongez dans l'univers où la technologie rencontre la pop culture ! Chez Rootosaurus, nous ne faisons pas que réparer des ordinateurs, nous les transformons en véritables machines de guerre contre les bugs et les pannes.
-
-## Qui Sommes-Nous ?
-
-Rootosaurus, c'est une équipe de passionnés qui maîtrisent l'art de l'administration système avec une touche de fun. Imaginez un mélange entre Sheldon Cooper et McGyver, et vous aurez une idée de notre style !
+Chez Rootosaurus, nous ne faisons pas que réparer des ordinateurs, nous les transformons en véritables machines de guerre contre les bugs et les pannes.
 
 ## Nos Services
 
