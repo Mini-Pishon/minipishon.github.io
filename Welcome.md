@@ -30,13 +30,4 @@ Vous avez un projet ou besoin d'aide ? Contactez-nous et devenez membre de la Ro
 
 ---
 
-**Contactez-nous** : [contact@rootosaurus.com](mailto:contact@rootosaurus.com)
-
-**Suivez-nous sur les réseaux sociaux** :
-- [Facebook](#)
-- [Twitter](#)
-- [Instagram](#)
-
----
-
 *Rootosaurus — Parce que même les dinosaures ont besoin d'un bon support informatique !*
