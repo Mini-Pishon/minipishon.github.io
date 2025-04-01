@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bienvenue chez Rootosaurus"
-permalink: /bienvenue/
+permalink: /
 ---
 
 # Bienvenue chez Rootosaurus !
