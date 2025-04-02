@@ -17,4 +17,4 @@ Nous nous efforçons de répondre à toutes les demandes dans les plus brefs dé
 
 ---
 
-*Rootosaurus — Parce que même les dinosaures ont besoin d'un bon support informatique !*
+*Site en cours de développement* 
