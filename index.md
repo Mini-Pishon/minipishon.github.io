@@ -18,7 +18,7 @@ Chez Rootosaurus, nous ne faisons pas que réparer des ordinateurs, nous les tra
 
 ## Rejoignez la Rootosaurus Family
 
-Vous avez un projet ou besoin d'aide ? Contactez-nous et devenez membre de la Rootosaurus Family. Ensemble, faisons de votre infrastructure informatique une véritable forteresse imprenable !
+Vous avez un projet ou besoin d'aide ? Contactez-nous sur GitHub et devenez membre de la Rootosaurus Family. Ensemble, faisons de votre infrastructure informatique une véritable forteresse imprenable !
 
 ---
 
