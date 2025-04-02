@@ -21,7 +21,7 @@
 title: Rootosaurus
 #email: contact@rootosaurus.fr
 description: >- # this means to ignore newlines until "baseurl:"
- Rootosaurus propose des services de support informatique et d'administration système de premier ordre, avec une touche unique inspirée de la pop culture. Notre équipe passionnée veille à ce que votre infrastructure IT soit robuste et sécurisée, tout en rendant l'expérience agréable et engageante. Découvrez comment nous combinons expertise et plaisir pour offrir des solutions IT exceptionnelles adaptées à vos besoins.
+ Chez Rootosaurus, nous ne faisons pas que réparer des ordinateurs, nous les transformons en véritables machines de guerre. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rootosaurus.fr" # the base hostname & protocol for your site, e.g. http://example.com
 domain: rootosaurus.fr
