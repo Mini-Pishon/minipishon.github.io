@@ -4,7 +4,9 @@ layout: default
 
 # Bienvenue chez Rootosaurus 🦖 !
 
-Chez Rootosaurus, nous ne faisons pas que réparer des ordinateurs, nous les transformons en véritables machines de guerre contre les bugs et les pannes.
+Chez Rootosaurus, nous ne faisons pas que réparer des ordinateurs, nous les transformons en véritables machines de guerre.
+
+![local image](assets/images/rootosaurus.png)
 
 ## Nos Projets
 
