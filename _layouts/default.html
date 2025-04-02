@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,15 +12,16 @@
 
     {% seo %}
     {% include head-custom.html %}
-  </head>
-
-  <body>
+</head>
+<body>
     <div id="container">
-      <div class="inner">
-        <section id="main_content">
-          {{ content }}
-        </section>
-      </div>
+        <div class="inner">
+            {% include nav.html %} <!-- Include the navigation bar here -->
+            <br>
+            <section id="main_content">
+                {{ content }}
+            </section>
+        </div>
     </div>
-  </body>
+</body>
 </html>

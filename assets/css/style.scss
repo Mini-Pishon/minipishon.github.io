@@ -2,3 +2,32 @@
 ---
 
 @import "jekyll-theme-tactile";
+
+.navbar {
+    background-color: #303030; /* Match the header color */
+    padding: 10px 0; /* Add padding similar to header */
+  }
+  
+  .navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Center the navigation items */
+  }
+  
+  .navbar-item {
+    margin: 0 15px; /* Space between items */
+  }
+  
+  .navbar-item a {
+    color: #fff; /* Match the header text color */
+    text-decoration: none;
+    font-weight: bold; /* Match the bold style of links */
+    font-size: 16px; /* Slightly larger font size */
+  }
+  
+  .navbar-item a:hover {
+    color: #d5000d; /* Match the link hover color */
+  }
+  

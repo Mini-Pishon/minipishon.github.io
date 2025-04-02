@@ -22,4 +22,4 @@ Vous avez un projet ou besoin d'aide ? Contactez-nous sur GitHub et devenez memb
 
 ---
 
-*Rootosaurus — Parce que même les dinosaures ont besoin d'un bon support informatique !*
+*Site en cours de développement* 
