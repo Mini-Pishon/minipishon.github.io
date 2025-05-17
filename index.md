@@ -25,7 +25,7 @@ Rootosaurus dompte vos environnements Windows et Linux — support utilisateurs,
 
 ## Entrez dans l’antre du Rootosaurus
 
-Vous avez un projet ou besoin d'aide ? Contactez-nous sur GitHub. Ensemble, faisons de votre infrastructure informatique une véritable forteresse imprenable !
+Vous avez un projet ou besoin d’aide ? Contactez-moi sur GitHub, et transformons ensemble votre infrastructure en bastion IT indestructible !
 
 ---
 
