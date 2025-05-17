@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -17,7 +16,7 @@ layout: default
 
 ## En un coup d’œil
 
--  🖥  **Systèmes** : Windows & Linux  
+- 🖥   **Systèmes** : Windows & Linux  
 -  🔒  **Sécurité** : EDR _(Endpoint Detection & Response)_, Firewall  
 -   🚀  **Automatisation** : Powershell, Bash & Déploiement
 -    🌐  **Infrastructures** : Virtualisation, Réseau, Cloud
@@ -52,5 +51,3 @@ Vous avez un projet ou besoin d’aide ?
 ---
 
 *Site en cours de développement*  
-
-
