@@ -3,7 +3,6 @@ layout: default
 title: Docs
 ---
 
-# Docs
 
 <div style="text-align: center; margin: 2rem 0;">
   <img src="/assets/CV.png"
