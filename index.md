@@ -6,7 +6,7 @@ layout: default
 
 Chez Rootosaurus, nous ne faisons pas que réparer des ordinateurs, nous les transformons en véritables machines de guerre.
 
-![local image](assets/images/dinoact.png){: .small-img }
+![local image](assets/images/dinoact.png)
 
 ## Nos Projets
 
