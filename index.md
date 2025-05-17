@@ -1,7 +1,6 @@
----
+
 ---
 layout: default
-title: Accueil
 ---
 
 # Bienvenue chez Rootosaurus 🦖
@@ -12,17 +11,16 @@ title: Accueil
        style="max-width: 300px; height: auto;">
 </div>
 
-**Système**, **Sécurité**, **Automatisation**, **Infrastructures**
-Passionnée d’IT, je façonne vos infrastructures solides et sans rugissements indésirables.
+**Passionnée d’IT, je façonne vos infrastructures solides et sans rugissements indésirables.**
 
 ---
 
 ## En un coup d’œil
 
-- 🖥 **Systèmes** : Windows & Linux  
-- 🔒 **Sécurité** : EDR _(Endpoint Detection & Response)_, Firewall  
-- 🚀 **Automatisation** : Powershell, Bash & Déploiement
-- 🌐 **Infrastructures** : Virtualisation, Réseau, Cloud
+-  🖥  **Systèmes** : Windows & Linux  
+-  🔒  **Sécurité** : EDR _(Endpoint Detection & Response)_, Firewall  
+-   🚀  **Automatisation** : Powershell, Bash & Déploiement
+-    🌐  **Infrastructures** : Virtualisation, Réseau, Cloud
 
 ---
 
@@ -42,7 +40,7 @@ Passionnée d’IT, je façonne vos infrastructures solides et sans rugissements
 ## Envie de collaborer ?
 
 Vous avez un projet ou besoin d’aide ?  
-👉 Contactez-moi[Ici](https://www.linkedin.com/in/ccarolinecheron/) ou encore [Ici](https://github.com/Mini-Pishon/)
+👉 Contactez-moi [ici](https://www.linkedin.com/in/ccarolinecheron/) ou encore [ici](https://github.com/Mini-Pishon/)
 
 
 ---
