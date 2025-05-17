@@ -6,7 +6,7 @@ layout: default
 
 Chez Rootosaurus, nous ne faisons pas que réparer des ordinateurs, nous les transformons en véritables machines de guerre.
 
-![local image](assets/images/rootosaurus.png)
+![local image](assets/images/dinoact.png)
 
 ## Nos Projets
 
@@ -20,7 +20,7 @@ Chez Rootosaurus, nous ne faisons pas que réparer des ordinateurs, nous les tra
 
 ## Rejoignez la Rootosaurus Family
 
-Vous avez un projet ou besoin d'aide ? Contactez-nous sur GitHub et devenez membre de la Rootosaurus Family. Ensemble, faisons de votre infrastructure informatique une véritable forteresse imprenable !
+Vous avez un projet ou besoin d'aide ? Contactez-nous sur GitHub. Ensemble, faisons de votre infrastructure informatique une véritable forteresse imprenable !
 
 ---
 
