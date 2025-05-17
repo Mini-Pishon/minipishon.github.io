@@ -19,7 +19,7 @@ permalink: /
 ## En un coup d’œil
 
 - 🖥   **Systèmes** : Windows & Linux  
--  🔒  **Sécurité** : EDR _(Endpoint Detection & Response)_, Firewall  
+-  🔒  **Sécurité** : EDR, Firewall & Sauvegarde  
 -   🚀  **Automatisation** : Powershell, Bash & Déploiement
 -    🌐  **Infrastructures** : Virtualisation, Réseau, Cloud
 
