@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Accueil
+permalink: /
 ---
 
 # Bienvenue chez Rootosaurus 🦖
