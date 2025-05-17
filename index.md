@@ -1,32 +1,58 @@
 ---
+---
 layout: default
+title: Accueil
 ---
 
-# Bienvenue chez Rootosaurus 🦖 !
+# Bienvenue chez Rootosaurus 🦖
 
-Rootosaurus dompte vos environnements Windows et Linux — support utilisateurs, gestion des habilitations, et déploiement de postes — tout en explorant la virtualisation, le réseau et la documentation technique, pour une infrastructure solide et sans rugissements indésirables.
-
-<div style="text-align: center;">
-  <img src="/assets/images/dinoact_optimized.png" alt="Dino Cat">
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/assets/images/dinoact_optimized.png"
+       alt="Dino Geek Hacker"
+       style="max-width: 300px; height: auto;">
 </div>
 
+**Système**, **Sécurité**, **Automatisation**, **Infrastructures**
+Passionnée d’IT, je façonne vos infrastructures solides et sans rugissements indésirables.
+
+---
+
+## En un coup d’œil
+
+- 🖥 **Systèmes** : Windows & Linux  
+- 🔒 **Sécurité** : EDR _(Endpoint Detection & Response)_, Firewall  
+- 🚀 **Automatisation** : Powershell, Bash & Déploiement
+- 🌐 **Infrastructures** : Virtualisation, Réseau, Cloud
+
+---
 
 ## Mes Projets
 
-- **[Home Lab](https://github.com/Mini-Pishon/Home-Lab.git)**
-- **[AutomAD](https://github.com/Mini-Pishon/AutomAD)**
-- **[Debian Post Install](https://github.com/Mini-Pishon/tssr-linux-debian-post-install)**
-- **[Powershell Express](https://github.com/Mini-Pishon/PowerShell-Express)**
-- **[Linux On The Go](https://github.com/Mini-Pishon/Linux-on-the-go)**
-- **[Lumos](https://github.com/Mini-Pishon/Lumos)**
-- **[ToolBox](https://github.com/Mini-Pishon/ToolBox-in-powershell)**
+- [Home Lab](https://github.com/Mini-Pishon/Home-Lab)  
+- [ToolBox](https://github.com/Mini-Pishon/ToolBox-in-powershell)
+- [AutomAD](https://github.com/Mini-Pishon/AutomAD)  
+- [Debian Post Install](https://github.com/Mini-Pishon/tssr-linux-debian-post-install)  
+- [Powershell Express](https://github.com/Mini-Pishon/PowerShell-Express)  
+- [Linux On The Go](https://github.com/Mini-Pishon/Linux-on-the-go)  
+- [Lumos](https://github.com/Mini-Pishon/Lumos)  
 
-
-
-## Entrez dans l’antre du Rootosaurus
-
-Vous avez un projet ou besoin d’aide ? Contactez-moi sur GitHub, et transformons ensemble votre infrastructure en bastion IT indestructible !
 
 ---
 
-*Site en cours de développement* 
+## Envie de collaborer ?
+
+Vous avez un projet ou besoin d’aide ?  
+👉 Contactez-moi[Ici](https://www.linkedin.com/in/ccarolinecheron/) ou encore [Ici](https://github.com/Mini-Pishon/)
+
+
+---
+
+## Pour en savoir plus sur moi
+
+📄 C'est par [là]({{ "/docs" | relative_url }}) !
+
+---
+
+*Site en cours de développement*  
+
+
