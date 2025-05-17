@@ -3,17 +3,15 @@ layout: default
 title: Contact
 ---
 
-# Contactez-nous
+# Contactez-moi
 
-Vous avez une question ou besoin d'aide avec vos systèmes informatiques ? N'hésitez pas à nous contacter !
+Vous avez une question ou besoin d'aide avec vos systèmes informatiques ? N'hésitez pas à me [contacter](https://www.linkedin.com/in/ccarolinecheron/) !
 
 ![Dino Geek Hacker](/assets/images/dino-geek-hacker.png)
 
-## Comment nous joindre
+## Comment me joindre
 
 - **Email** : [contact@rootosaurus.fr](mailto:contact@rootosaurus.fr)
-
-Nous nous efforçons de répondre à toutes les demandes dans les plus brefs délais. Que vous ayez besoin d'un conseil technique ou que vous souhaitiez en savoir plus sur nos projets, nous sommes là pour vous aider !
 
 ---
 
