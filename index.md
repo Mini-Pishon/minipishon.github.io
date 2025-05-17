@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accueil
+title: Bienvenue chez Rootosaurus
 permalink: /
 ---
 
